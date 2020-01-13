@@ -1,0 +1,11 @@
+[Number of Occurences] [String that Occured]
+      5 a
+      5 to
+      4 dont
+      3 but
+      3 do
+      3 i
+      3 one
+      3 sin
+      3 the
+      3 you
