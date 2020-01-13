@@ -13,7 +13,7 @@ FILEPATH=$1
 # Variable representing the number of lines they wish to be printed
 NUM=$2
 # Variable representing output file destination
-OUTPUT=Word_Demographic-$FILEPATH
+OUTPUT=Result-Demographic-$FILEPATH
 # Variable representing an intermediate preperation steps that change the 
 # word-frequency list into a more easily parsible form for the computer
 INTERMEDIATE=intermediate.txt
